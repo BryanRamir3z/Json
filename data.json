@@ -5,7 +5,7 @@
     "data": [
         {
             "id": 1,
-            "name": "Leche",
+            "name": "Detergente Deja",
             "description": "Producto lacteo",
             "ean": "4627302291354",
             "upc": "355415834890",
@@ -29,7 +29,7 @@
             ],
             "net_price": 1080362.81,
             "taxes": 22,
-            "price": "1.30",
+            "price": "10.50",
             "categories": [
                 8,
                 3,
@@ -45,7 +45,7 @@
         },
         {
             "id": 2,
-            "name": "Aceite",
+            "name": "Cloro Economax",
             "description": "Producto de cocina",
             "ean": "1989628990988",
             "upc": "983986210398",
@@ -69,7 +69,7 @@
             ],
             "net_price": 1081.81,
             "taxes": 22,
-            "price": "3.50",
+            "price": "6.70",
             "categories": [
                 9,
                 2,
@@ -84,7 +84,7 @@
         },
         {
             "id": 3,
-            "name": "Galletas",
+            "name": "Suavisante Flor",
             "description": "Producto comestible",
             "ean": "5895561801181",
             "upc": "831750860275",
@@ -108,7 +108,7 @@
             ],
             "net_price": 321709.43,
             "taxes": 22,
-            "price": "1.50",
+            "price": "4.20",
             "categories": [
                 5,
                 1,
@@ -127,7 +127,7 @@
         },
         {
             "id": 4,
-            "name": "Detergente",
+            "name": "Jabon Protex",
             "description": "Prodcuto de aseo",
             "ean": "6768583975316",
             "upc": "167264374947",
@@ -151,7 +151,7 @@
             ],
             "net_price": 898.1,
             "taxes": 22,
-            "price": "2.50",
+            "price": "3.25",
             "categories": [
                 3,
                 2,
@@ -169,7 +169,7 @@
         },
         {
             "id": 5,
-            "name": "Gaseosa",
+            "name": "Jabon Liquido",
             "description": "Bebida energetica",
             "ean": "9198198842630",
             "upc": "722567751568",
@@ -193,7 +193,7 @@
             ],
             "net_price": 3.8,
             "taxes": 22,
-            "price": "1.35",
+            "price": "7.50",
             "categories": [
                 1,
                 5,
